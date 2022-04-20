@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manikishore1712
-- 👀 I’m interested in java full stack developer
-- 🌱 I’m currently learning java
+- 👀 I’m interested in full stack developer
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... manikishore6@gmail.com
 
